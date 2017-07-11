@@ -6,6 +6,8 @@ import random
 global tab
 tab = '\t'
 
+sdsd = ''
+
 class FlowSheet:
     def _init(self, mdn, msid, upFlowCount, downFlowCount):
         self._mdn = mdn
